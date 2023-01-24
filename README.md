@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/236501/85893648-1c92e880-b7a8-11ea-926d-95355b8175c7.png" width="128" height="128" />
-</p>
-<h3 align="center">Capacitor Voice Recorder</h3>
-<p align="center"><strong><code>tchvu3/capacitor-voice-recorder</code></strong></p>
-<p align="center">Capacitor plugin for simple voice recording (For Capacitor 4)</p>
-
-<p align="center">
-  <img src="https://img.shields.io/maintenance/yes/2023" />
-  <a href="https://www.npmjs.com/package/capacitor-voice-recorder"><img src="https://img.shields.io/npm/l/capacitor-voice-recorder" /></a>
-<br>
-  <a href="https://www.npmjs.com/package/capacitor-voice-recorder"><img src="https://img.shields.io/npm/dw/capacitor-voice-recorder" /></a>
-  <a href="https://www.npmjs.com/package/capacitor-voice-recorder"><img src="https://img.shields.io/npm/v/capacitor-voice-recorder" /></a>
-</p>
-
 ## Source
 
 This repo and readme is forked from https://github.com/tchvu3/capacitor-voice-recorder.
