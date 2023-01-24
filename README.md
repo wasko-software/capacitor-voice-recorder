@@ -13,11 +13,9 @@
   <a href="https://www.npmjs.com/package/capacitor-voice-recorder"><img src="https://img.shields.io/npm/v/capacitor-voice-recorder" /></a>
 </p>
 
-## Maintainers
+## Source
 
-| Maintainer | GitHub |
-| -----------| -------|
-| Avihu Harush | [tchvu3](https://github.com/tchvu3) |
+This repo and readme is forked from https://github.com/tchvu3/capacitor-voice-recorder.
 
 ## Installation
 
@@ -205,9 +203,3 @@ const audioRef = new Audio(`data:${mimeType};base64,${base64Sound}`)
 audioRef.oncanplaythrough = () => audioRef.play()
 audioRef.load()
 ```
-
-## Donation
-
-If you enjoy my work and find it useful, feel free to invite me to a cup of coffee :)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tchvu3)
