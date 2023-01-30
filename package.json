@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-voice-recorder",
-  "version": "4.0.2",
+  "name": "@wasko-software/capacitor-voice-recorder",
+  "version": "0.0.2",
   "description": "Capacitor plugin for voice recording",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,13 +11,10 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorVoiceRecorder.podspec"
+    "WaskoSoftwareCapacitorVoiceRecorder.podspec"
   ],
-  "author": {
-    "name": "Avihu Harush",
-    "email": "tchvu3@gmail.com"
-  },
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tchvu3/capacitor-voice-recorder.git.git"
@@ -87,5 +84,6 @@
   },
   "dependencies": {
     "get-blob-duration": "^1.2.0"
-  }
+  },
+  "homepage": "https://github.com/tchvu3/capacitor-voice-recorder.git#readme"
 }

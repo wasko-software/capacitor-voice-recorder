@@ -13,6 +13,7 @@ class CustomMediaRecorder {
         AVFormatIDKey: Int(kAudioFormatMPEG4AAC),
         AVSampleRateKey: 16000,
         AVNumberOfChannelsKey: 1,
+        AVEncoderBitRateKey: 16000,
         AVEncoderAudioQualityKey: AVAudioQuality.high.rawValue
     ]
     
