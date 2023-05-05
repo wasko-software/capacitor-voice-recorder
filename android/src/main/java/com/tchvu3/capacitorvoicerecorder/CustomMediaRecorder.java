@@ -26,7 +26,7 @@ public class CustomMediaRecorder {
         mediaRecorder.setAudioEncoder(MediaRecorder.AudioEncoder.AAC);
         mediaRecorder.setAudioChannels(1);
         mediaRecorder.setAudioEncodingBitRate(16000);
-        mediaRecorder.setAudioSamplingRate(16000);
+        mediaRecorder.setAudioSamplingRate(22000);
         setRecorderOutputFile();
         mediaRecorder.prepare();
     }
