@@ -11,7 +11,7 @@ class CustomMediaRecorder {
     
     private let settings = [
         AVFormatIDKey: Int(kAudioFormatMPEG4AAC),
-        AVSampleRateKey: 22000,
+        AVSampleRateKey: 22050,
         AVNumberOfChannelsKey: 1,
         AVEncoderAudioQualityKey: AVAudioQuality.high.rawValue
     ]

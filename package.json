@@ -1,6 +1,6 @@
 {
   "name": "@wasko-software/capacitor-voice-recorder",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Capacitor plugin for voice recording",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
